@@ -32,7 +32,7 @@ async function main() {
          secure: true,
          auth:{
              user:senderEmail,
-             pass: 'kamg ybxb fwtn djhd',
+             pass: 'your google ap password',
 
          }
 
